@@ -41,26 +41,26 @@ The Tableau Dashboard can be found by following this link https://public.tableau
 Based on line graph, the accidents report in recent years has decrease as compared to previous years. This could be indicative of improvement in safety of aircrafts in the aviation industry.
 
 ### Phase of flight during accidents
-https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Phase%20of%20Flight.png
+![Alt text](https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Phase%20of%20Flight.png)
 A significant number of accidents occur during Takeoff and landing phases. This could be indicative of lack of significant pilot training in landing and taking off. We would therefore advise the company to invest in advanced pilot training can greatly reduce risk.
 
 ### Top 20 Makes  and Models with the Highest Aircraft Accidents
-https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/20%20top%20accident%20Prone%20Makes%20and%20Models.png
+![Alt text](https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/20%20top%20accident%20Prone%20Makes%20and%20Models.png)
 
 We can see that aircrafts like Cessna and Piper have the highest count of reported accidents which could be attributed to their widespread use as they are popular and large aircraft manufacturers in the aviation industry.
 Other well known and large manufacturers of aircrafts with high accident rates are Bell, Boeing and Beech.
 However, compared to Cessna and Piper,  Bell, Boeing and Beech have significantly lower accident rate over the same period of time.
 
 ### Top 20 Makes  and Models with the Lowest Aircraft Accidents
-https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/20%20least%20accidental%20Makes%20and%20Models.png
+![Alt text](https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/20%20least%20accidental%20Makes%20and%20Models.png)
 
 All the makes with the least number of recorded accident in the dataset are comprised of a variety of names which mostly appear to be from less known aircraft manufacturers.
 Although these makes have the least reported number of accidents, it may not be indicative of their overall safety, it may merely suggest that these are highly specialized aircrafts built by individuals and not many of them are operational, thereby leading to low reported cases of accidents.
 
 ### Aircraft Accident by Purpose of Flight
-https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Purpose%20of%20Flight.png
+![Alt text](https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Purpose%20of%20Flight.png)
 
-From the piechartabove, the flight purpose with the highest risk is flights for personal use. This could be indicative on a lack of proper training in decision making in emergency situations by pilots flying aircrafts for personal purposes.  As such, we would recommend for additional pilot training in this areas.
+From the piechart above, the flight purpose with the highest risk is flights for personal use. This could be indicative on a lack of proper training in decision making in emergency situations by pilots flying aircrafts for personal purposes.  As such, we would recommend for additional pilot training in this areas.
 
 # Conclusion
 Based purely on the accident counts in this dataset, the aircraft categories with the lowest recorded incidents are: ULTR, Rocket, Powered-Lift, Blimp, WSFT, Ultralight, Powered Parachute, Weight-Shift, Gyrocraf, Balloon.
