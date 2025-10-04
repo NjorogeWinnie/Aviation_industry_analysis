@@ -37,8 +37,7 @@ The Tableau Dashboard can be found by following this link https://public.tableau
 
 # Summary of Analysis
 ### Aircraft Accidents Over Time
-https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Aircraft%20Accidents%20Over%20Time.png
-
+<img width="610" height="581" alt="image" src="[https://github.com/user-attachments/assets/e878f44c-7fb0-4032-bec3-dea287e82f34](https://github.com/NjorogeWinnie/Aviation_industry_analysis/blob/main/Images/Aircraft%20Accidents%20Over%20Time.png)" />
 Based on line graph, the accidents report in recent years has decrease as compared to previous years. This could be indicative of improvement in safety of aircrafts in the aviation industry.
 
 ### Phase of flight during accidents
